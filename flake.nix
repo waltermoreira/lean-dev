@@ -63,6 +63,7 @@
           packages = [
             pkg.modRoot
             pkg.lean-package
+            vscode
           ];
         };
       });
