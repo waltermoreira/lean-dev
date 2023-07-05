@@ -1,4 +1,2 @@
-import Greeting
-
 def main : IO Unit :=
-  IO.println s!"Hello there, {hello}!"
+  IO.println s!"Hello world"
