@@ -22,7 +22,6 @@
         };
       in
       {
-        packages = pkg;
         devShells.default = pkg.shell {
           name = "demo";
         };
