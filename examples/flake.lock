@@ -158,8 +158,8 @@
         "shell-utils": "shell-utils_2"
       },
       "locked": {
-        "lastModified": 1688523722,
-        "narHash": "sha256-9foeZSiPyQSSVVqI1dnZqCAcoklmK+ltBzkt4YSPhW4=",
+        "lastModified": 1690656095,
+        "narHash": "sha256-y/XL7BVWHpvlMA3lCS07HNFASivuhOz8iFHhJ+3EIm4=",
         "path": "/Users/waltermoreira/repos/lean-dev",
         "type": "path"
       },
@@ -207,11 +207,11 @@
         "shell-utils": "shell-utils"
       },
       "locked": {
-        "lastModified": 1680317167,
-        "narHash": "sha256-hYsejfa7G9grrrHqYAKvRerTiJAfqWcTD9DF5JJbVws=",
+        "lastModified": 1690655808,
+        "narHash": "sha256-8Da7IFIw0C8GD4rVDtFPeLWLjPU0HjUn2zacviPewp8=",
         "owner": "waltermoreira",
         "repo": "myvscode",
-        "rev": "664d99a66320a7f032c7de0b294af03b6dde0ed4",
+        "rev": "7f94dea5ce3def35a6950d9b78803da85c920a72",
         "type": "github"
       },
       "original": {
@@ -377,11 +377,11 @@
         "nixpkgs": "nixpkgs_4"
       },
       "locked": {
-        "lastModified": 1680150920,
-        "narHash": "sha256-l1rOMx3EuVPQm3kQueLs0928mvDQiTd+hd5Yja4C15s=",
+        "lastModified": 1683087891,
+        "narHash": "sha256-93cqgZ6iQJKYorhV5nwpc/EB1dggHUUYjNPiMFnRhcs=",
         "owner": "waltermoreira",
         "repo": "shell-utils",
-        "rev": "8b361506ab49ae2a72d33cf9557183d604429e0d",
+        "rev": "b5459dbc1cae29b4d7bfa3b3f3029866aa466383",
         "type": "github"
       },
       "original": {
