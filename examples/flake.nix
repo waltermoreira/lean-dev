@@ -3,7 +3,7 @@
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs";
-    lean-dev.url = "path:/Users/waltermoreira/repos/lean-dev";
+    lean-dev.url = "github:waltermoreira/lean-dev";
     flake-utils.url = "github:numtide/flake-utils";
   };
 

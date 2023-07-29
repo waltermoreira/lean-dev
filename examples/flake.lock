@@ -158,14 +158,17 @@
         "shell-utils": "shell-utils_2"
       },
       "locked": {
-        "lastModified": 1690656095,
-        "narHash": "sha256-y/XL7BVWHpvlMA3lCS07HNFASivuhOz8iFHhJ+3EIm4=",
-        "path": "/Users/waltermoreira/repos/lean-dev",
-        "type": "path"
+        "lastModified": 1690656364,
+        "narHash": "sha256-VdWs3oZgMLKcrY+6BQZK15uqhMh5zbcTNt5H9Fqsakg=",
+        "owner": "waltermoreira",
+        "repo": "lean-dev",
+        "rev": "43e061c4c6fedd689436bd5828eb4e6354b66247",
+        "type": "github"
       },
       "original": {
-        "path": "/Users/waltermoreira/repos/lean-dev",
-        "type": "path"
+        "owner": "waltermoreira",
+        "repo": "lean-dev",
+        "type": "github"
       }
     },
     "lean4-mode": {
